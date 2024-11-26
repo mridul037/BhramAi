@@ -22,7 +22,7 @@ export  default async function CallF(req) {
   let options = {};
   
 
-  const client = new Together({ apiKey: process.env.TOGETHER_API_KEY });
+  const client = new Together({ apiKey: "674b66450375c9c7e65fdf3c3fe23a18b6898662ea4a92c56e4ca5c470178588" });
 
   
 
