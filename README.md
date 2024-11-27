@@ -4,7 +4,7 @@
 ### A blazing-fast text-to-image generation system in real time
 BhramAi is a cutting-edge tool that transforms your words into stunning visuals instantly. Powered by advanced AI and optimized for real-time performance.
 
-[![IMAGE ALT TEXT HERE])](https://www.youtube.com/watch?v=pb-1m8nNA0A)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pb-1m8nNA0A?si=9kwBUly33eHKpSe-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  ### Key Features:
 - Real-Time Image Generation: Transform words into visuals instantly without lag.
